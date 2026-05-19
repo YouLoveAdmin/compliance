@@ -1,0 +1,48 @@
+Arctic Wolf Agent*
+Arctic Wolf Agent Containment
+Cisco Secure Client - AnyConnect VPN
+Cisco Secure Client - Umbrella
+Adobe Acrobat* | Bluebeam Revu*
+HP Insights
+HP Insights Analytics
+ScreenConnect Client*
+Wazuh Module
+Beedie-BIOS-Config-*.log
+HP*.json
+ServiceProcessCheck.log
+set-localadmin-*.log
+OssecSvc
+AwWfpService
+ArcticWolfAgentMgr
+csc_vpnagent
+csc_umbrellaagent
+HPAppHelperCap
+hpqcaslwmiex
+HPDiagsCap
+hpLHAgent
+HpTouchpointAnalyticsService
+hpLHWatchdog
+HPNetworkCap
+hpsvcsscan
+HPSysInfoCap
+ScreenConnect Client*
+Sysmon64 | Sysmon
+Computer Name:*BEEDIE-*
+Username:*AzureAD*
+acumbrellaagent
+AwnAgentService
+csc_ui
+MpDefenderCoreService
+msedge
+msedgewebview2
+MsMpEng
+MsSense
+ms-teams
+OneDrive
+OneDrive.Sync.Service
+ossec-agent
+ScreenConnect.ClientService
+ScreenConnect.WindowsClient
+spoolsv
+vpnagent
+winlogon
