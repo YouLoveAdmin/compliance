@@ -7,7 +7,7 @@ HP Insights
 HP Insights Analytics
 ScreenConnect Client*
 Wazuh Module
-Beed*BIOS-Config-*.log
+Bee*BIOS-Config-*.log
 HP*.json
 ServiceProcessCheck.log
 set-localadmin-*.log
@@ -27,7 +27,7 @@ hpsvcsscan
 HPSysInfoCap
 ScreenConnect Client*
 Sysmon64 | Sysmon
-Computer Name:*BEED*
+Computer Name:*BEE*
 Username:*AzureAD*
 acumbrellaagent
 AwnAgentService
